@@ -1,0 +1,12 @@
+name: housing
+dependencies:
+  - python=3.6
+  - numpy=1.18.5
+  - nb_conda_kernels=2.3
+  - ipykernel=5.3.4
+  - pip:
+    - pandas==1.1.5
+    - beautifulsoup4==4.9.3
+    - colorama==0.4.4
+    - selenium==3.141.0
+    - requests==2.25.1
